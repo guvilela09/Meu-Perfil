@@ -35,7 +35,6 @@ conhecimentos. Estou em formação acadêmica na Uninove. Estudando Tecnologia e
 ## 🔗 Links
 
 [![Meu site](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://guvilela09.github.io/meu-portfolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-vilela-dos-santos-46440b242/)
 
 ### GitHub Stats
 
